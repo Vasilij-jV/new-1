@@ -1,0 +1,19 @@
+.wrapper {
+  width: 345px;
+  height: 600px:
+  display: flex;
+  align-items: flex-start;
+  background-color: red;
+}
+
+.sidebar {
+  width: 100px;
+  height: 600px;
+  background-color: #0000cd;
+}
+
+.rightbar {
+  width: 240px;
+  height: 600px;
+  background-color: #cdcdcd;
+}
